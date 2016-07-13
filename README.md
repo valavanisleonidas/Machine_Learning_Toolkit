@@ -1,2 +1,2 @@
-# Machine_Learning_Toolkit
+# Machine Learning Toolkit
 Python machine learning, deep learning toolkit 
